@@ -1,6 +1,6 @@
 # Transcript Generator
 
-# First Year Python Project
+## First Year Python Project
 
 This program will accept a student name and produce their marksheet in .txt file. Currently it uses an excel file called Projectfile, containg names of four students and their marks in respective courses.
 
